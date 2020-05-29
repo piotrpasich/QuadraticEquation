@@ -1,10 +1,10 @@
-#Quadratic Equation
+# Quadratic Equation
 
-##Installation
+## Installation
 
 This project is intended to be used with the latest Active LTS release of Node.js.
 
-####Clone repository
+#### Clone repository
 
 ```
 git clone https://github.com/piotrpasich/QuadraticEquation.git
@@ -12,7 +12,7 @@ cd QuadraticEquation
 npm install
 ```
 
-##Quadratic Equation Script Usage
+## Quadratic Equation Script Usage
 
 ```
 npm run eq -- -a 1 -b 3 -c 4
